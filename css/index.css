@@ -550,4 +550,5 @@ outline: none;
 }
 .xxx{
     max-width: 454px;
+    min-width: none;
 }
