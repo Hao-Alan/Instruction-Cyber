@@ -550,11 +550,11 @@ outline: none;
 }
 .xxx{
     max-width: 454px;
-<<<<<<< HEAD
     background-color: #ff4f81;
     border: solid 1px gray;
     margin-top: 4px;
-=======
     min-width: none;
->>>>>>> 0877281e346122cb5e38f5dbfc31ca6b970a6e30
+}
+.mochi{
+    display: flex;
 }
