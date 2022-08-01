@@ -550,4 +550,7 @@ outline: none;
 }
 .xxx{
     max-width: 454px;
+    background-color: #ff4f81;
+    border: solid 1px gray;
+    margin-top: 4px;
 }
