@@ -554,7 +554,13 @@ outline: none;
     border: solid 1px gray;
     margin-top: 4px;
     min-width: none;
+
 }
 .mochi{
     display: flex;
+    color: aqua;
+}
+.hola{
+    background-color: aquamarine;
+
 }
