@@ -562,5 +562,6 @@ outline: none;
 }
 .hola{
     background-color: aquamarine;
-
+    color: bisque;
+    margin-top: auto;
 }
